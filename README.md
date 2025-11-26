@@ -1,0 +1,2 @@
+# Zero-Shot-Data-Cleaning-AI-Powered-Agent-Pipeline
+Autonomous multi-agent AI pipeline for zero-shot data cleaning. Leverages LLMs &amp; Pydantic to intelligently profile, plan, execute, and verify cleaning operations with minimal human input. Transforms messy data into ML-ready datasets, accelerating insights &amp; boosting AI/ML reliability. A resilient, adaptive solution for the 'dirty data' bottleneck.
